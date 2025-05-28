@@ -1,0 +1,47 @@
+body{
+    background-image: url('sci-fi-landscape-astronaut-beach-wallpaper-preview.jpg');
+    background-size: cover;
+    
+}
+
+.title{
+
+    background-color : red;
+    border : 2px solid green;
+    color : black;
+    font-size: large;
+    font-weight: bold;
+    text-align:center;
+    padding: 7px;
+
+    margin-bottom : 20px;
+}
+
+.div1{
+    background-color: orange;
+    border : 3px solid red;
+    color : white;
+    padding : 5px;
+    margin-bottom : 20px;
+}
+
+.div2{
+    background-color: yellow;
+    border : 2px dotted red;
+    color : red;
+    padding : 10px;
+    margin-bottom : 20px;
+    border-radius: 10px;
+}
+
+.div3{
+    background-color:rgb(255, 255, 0, 0.5);
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+    color : purple;
+    padding : 5px;
+    border-radius: 20px 0px 20px 0px;
+}
+
+
+

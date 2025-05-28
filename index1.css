@@ -1,0 +1,31 @@
+.container{
+    background : orange;
+    width : 200px;
+    border-radius : 100px 100px 0 0;
+    height : 220px;
+    padding : 20px;
+    margin : 100px auto;
+    padding-top : 50px;
+}
+
+.box{
+    
+    padding : 20px;
+    margin : 10px auto;
+    text-align : center;
+    font-weight: bold;
+    font-size : 20px
+    
+}
+
+.BBA{
+    background : blue; color : yellow;
+}
+
+.BCA{
+    background : red; color :white;
+}
+
+.mca{
+    background: yellow; color : green;
+}
